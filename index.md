@@ -136,7 +136,7 @@ address.
   <a href="//www.openstreetmap.org/?mlat={{page.latitude}}&mlon={{page.longitude}}&zoom=16">OpenStreetMap</a>
   or
   <a href="//maps.google.com/maps?q={{page.latitude}},{{page.longitude}}">Google Maps</a>.
-</p>
+</p> 
 {% elsif online == "true_public" %}
 <p id="where">
   <strong>Where:</strong>
@@ -179,7 +179,6 @@ ACCESSIBILITY
 
 Modify the block below if there are any barriers to accessibility or
 special instructions.
-{% endcomment %}
 <p id="accessibility">
   <strong>Accessibility:</strong>
 {% if online == "false" %}
@@ -190,6 +189,7 @@ special instructions.
   <li>The room is wheelchair / scooter accessible.</li>
   <li>Accessible restrooms are available.</li>
 </ul>
+{% endcomment %}
 <p>
   Materials will be provided in advance of the workshop and
   large-print handouts are available if needed by notifying the
