@@ -420,20 +420,15 @@ during the workshop.
 
 <div id="spreadsheet-program">
 <h3>Spreadsheet program</h3>
-
-<ul>
-  <li>
-    <p>To interact with spreadsheets, we can use LibreOffice, Microsoft Excel, Gnumeric, OpenOffice.org, or other programs.
+  
+<p>To interact with spreadsheets, we can use LibreOffice, Microsoft Excel, Gnumeric, OpenOffice.org, or other programs.
 Commands may differ a bit between programs, but the general ideas for thinking about spreadsheets are the same. For this workshop,
 we recommend using either Microsoft Excel (paid software) or LibreOffice (free and open source). Other spreadsheet programs may
 not have all of the features we will be exploring in this workshop.</p>
-  </li>
-  <li>
-    <p>To install LibreOffice, go to their <a href="https://www.libreoffice.org/download/download/">download page</a>. The website should
+
+<p>To install LibreOffice, go to their <a href="https://www.libreoffice.org/download/download/">download page</a>. The website should
 automatically select the correct option for your operating system. Click the “Download” button. You will go to a page that asks about a
 donation, but you don’t need to make one. Your download should begin automatically. Once the installer is downloaded, double click on it (you may need to open your Downloads folder) and LibreOffice should install.</p>
-  </li>
-</ul>
 </div>
 
 
