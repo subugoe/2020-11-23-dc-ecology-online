@@ -358,6 +358,10 @@ please preview your site before committing, and make sure to run
 <hr/>
 
 {% comment %}
+
+SLIDES
+<a href="https://owncloud.gwdg.de/index.php/s/NIQpg4qnSrYvWGZ">Slides on Owncloud</a>
+
 SETUP
 
 Delete irrelevant sections from the setup instructions.  Each
